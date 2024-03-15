@@ -1,5 +1,5 @@
 {
-  "homepage": "https://ibrsec.github.io/shopping-vite/",
+  "homepage": "https://github.com/BecooOn/react-deneme",
   "name": "yeni",
   "private": true,
   "version": "0.0.0",
@@ -12,10 +12,10 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "vite": "^5.1.6"
   },
   "dependencies": {
-    "gh-pages": "^6.1.1",
     "sass": "^1.72.0",
     "sweetalert2": "^11.10.6"
   }
